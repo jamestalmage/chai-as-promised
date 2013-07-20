@@ -28,7 +28,7 @@
         "chai": ">= 1.0.2 < 2"
     },
     "devDependencies": {
-        "chai": "~1.5",
+        "chai": "~1.7",
         "coffee-script": "~1.5",
         "cover": "~0.2.8",
         "ecstatic": "~0.4.2",

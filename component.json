@@ -1,0 +1,19 @@
+{
+    "name": "chai-as-promised",
+    "repo": "jamestalmage/chai-as-promised",
+    "description": "Extends Chai with assertions about promises.",
+    "keywords": [
+        "chai",
+        "testing",
+        "assertions",
+        "promises",
+        "promises-aplus"
+    ],
+    "version": "3.3.1",
+    "license": "WTFPL",
+    "dependencies": {},
+    "main": "lib/chai-as-promised.js",
+    "scripts" : [
+        "lib/chai-as-promised.js"
+    ]
+}
